@@ -1,0 +1,45 @@
+.shopping{
+    font-size: 25;
+    cursor: pointer;
+}
+.largetrash{
+    color: red;
+    font-size: 20;
+    cursor: pointer;
+}
+.emptytext{
+    font-size: 22px;
+}
+.trash{
+    color:red;
+    cursor: pointer;
+    font-size: 20;
+}
+.headercart{
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.cardcontent{
+    width: 24rem;
+    padding: 10px;
+    position: relative;
+}
+
+.cross{
+    position: absolute;
+    top: 2px;
+    right: 20px;
+    font-size: 23px;
+    cursor:pointer;
+}
+.imgstyle{
+    height: 25em;
+}
+.quantity{
+    width: 100px;
+    cursor: pointer;
+    background:#ddd;
+    color:#111 ;
+}
+
